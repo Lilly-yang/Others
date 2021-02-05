@@ -1,4 +1,2 @@
-# hello-world
-Just another repository
-
-Hi Humans!
+# Other code
+Just some other code.
